@@ -19,7 +19,9 @@ A simple ChatGPT prompt:
 > 3. It will use the Python Library "Pillow" to reduce each jpg to 20% of its original dimensions
 > 4. The resized files should be a written to a /output directory
 
-ChatGPT's code can me found in this projects squishJpg.py file. It worked perfectly.
+ChatGPT's code can me found in this projects squishJpg.py file. 
+
+It worked perfectly.
 
 # License
 
